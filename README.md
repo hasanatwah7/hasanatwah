@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Hasan Atwah and I'm a beginner student from Egypt
 
 I've Started already with C++ & C# and I really enjoyed coding and problem solving; :)
-You can Check my Twitter(X) on this link: ([link]https://x.com/hasanatwah7)
+You can Check my Twitter(X) on this link: https://x.com/hasanatwah7
 
 Skills: C / C++ / C#
 
